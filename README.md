@@ -1,5 +1,7 @@
 # flipclockjs-rails
 
+[![Gem Version](https://badge.fury.io/rb/flipclockjs-rails.png)](http://badge.fury.io/rb/flipclockjs-rails)
+
 This gem packages [FlipClock.js](https://github.com/objectivehtml/FlipClock) for the Rails 3.1+ asset pipeline.
 
 FlipClock.js requires `jQuery 1.7.x+`.
