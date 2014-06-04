@@ -1,5 +1,5 @@
 module Flipclockjs
   module Rails
-    VERSION = '0.4.0b'
+    VERSION = '0.5.5b'
   end
 end
