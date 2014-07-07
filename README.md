@@ -10,7 +10,7 @@ FlipClock.js requires `jQuery 1.7.x+`.
 
 Add this line to your application's Gemfile:
 ```
-gem 'flipclockjs-rails', '~> 0.5.5b'
+gem 'flipclockjs-rails', '~> 0.5.5b.1'
 ```
 
 And then execute:
