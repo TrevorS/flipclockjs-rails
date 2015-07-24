@@ -4,7 +4,7 @@
 
 This gem packages [FlipClock.js](https://github.com/objectivehtml/FlipClock) for the Rails 3.1+ asset pipeline.
 
-FlipClock JS version: **0.7.4**
+FlipClock JS version: **0.7.7**
 
 FlipClock.js requires `jQuery 1.7.x+`.
 
@@ -12,7 +12,7 @@ FlipClock.js requires `jQuery 1.7.x+`.
 
 Add this line to your application's Gemfile:
 ```
-gem 'flipclockjs-rails', '~> 0.7.4'
+gem 'flipclockjs-rails', '~> 0.7.7'
 ```
 
 And then execute:
